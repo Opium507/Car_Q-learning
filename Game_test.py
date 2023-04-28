@@ -254,6 +254,9 @@ class Car:
 
         self.score = 0
         self.lifespan = 0
+"""
+draw the car to the screen
+"""
 
     def reset(self):
         global vec2
